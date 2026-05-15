@@ -1,10 +1,10 @@
-# Leetcode Badges
+# Leetcode Thousand
 
-https://github.com/Overhellz/multitrack
+https://github.com/Overhellz/leetcode-thousand
 
 ---
 
-# Study Plan
+# Badges
 
 ## LeetCode 75
 
@@ -20,39 +20,44 @@ https://leetcode.com/studyplan/top-interview-150/
 
 ---
 
-|  # | Theme                                       | LeetCode 75 | Top 100 Liked | Top Interview 150 |
-|---:|:--------------------------------------------|:------------|:-------------:|-------------------|
-|  1 | Hash Map                                    |             |               |                   |
-|  2 | Binary Search                               |             |               |                   |
-|  3 | Array / String                              |             |               |                   |  
-|  4 | Hashmap / Hashing / Hash Set                |             |               |                   |  
-|  5 | Two Pointers                                |             |               |                   |
-|  6 | Sliding Window                              |             |               |                   |
-|  7 | Prefix Sum                                  |             |               |                   |
-|  8 | Stack                                       |             |               |                   |
-|  9 | Queue                                       |             |               |                   |
-| 10 | Linked List                                 |             |               |                   |
-| 11 | Binary Tree                                 |             |               |                   |
-| 12 | Binary Tree DFS                             |             |               |                   |
-| 13 | Binary Tree BFS                             |             |               |                   |
-| 14 | Binary Search Tree                          |             |               |                   |
-| 15 | Graph                                       |             |               |                   |        
-| 16 | Graph DFS                                   |             |               |                   |
-| 17 | Graph BFS                                   |             |               |                   |
-| 18 | Heap / Priority Queue                       |             |               |                   |
-| 19 | Binary Search                               |             |               |                   |
-| 20 | Backtracking                                |             |               |                   |
-| 21 | Dynamic Programming / 1D / Multidimensional |             |               |                   |
-| 22 | Bit Manipulation                            |             |               |                   |
-| 23 | Trie                                        |             |               |                   |
-| 24 | Intervals                                   |             |               |                   |
-| 25 | Monotonic Stack                             |             |               |                   |
-| 26 | Greedy                                      |             |               |                   |
-| 27 | Matrix                                      |             |               |                   |
-| 28 | Divide & Conquer                            |             |               |                   |
-| 29 | Kadane's Algorithm                          |             |               |                   |
-| 30 | Math                                        |             |               |                   |
-| 31 | Misc (остальное)                            |             |               |                   |
+## Retention Rating Scale
 
+| Retention | Description                                                         |
+|:---------:|:--------------------------------------------------------------------|
+|     5     | Решено самостоятельно, в пределах времени.                          |
+|     4     | Решено самостоятельно, но слишком медленно / незначительные ошибки. |
+|     3     | Вспомнил алгоритм, но в коде были ошибки / нужны были подсказки.    |
+|     2     | Смутно помнил тему, не смог решить.                                 |
+|     1     | Полный провал (не распознал задачу).                                |
 
 ---
+
+# Themes
+
+| #  | Theme                       | 
+|:--:|:----------------------------|
+| 1  | Two Pointers                | 
+| 2  | Sliding Window              | 
+| 3  | Linked List                 | 
+| 4  | Hash Map                    |
+| 5  | LRU                         |
+| 6  | Stack, Queue                | 
+|    |                             |
+| 7  | Binary Tree, DFS            |
+| 8  | Binary Search Tree          |
+| 9  | Binary Tree, BFS            |
+| 10 | Trie, Autocomplete          |
+| 11 | Heap. Part 1                |
+| 12 | Heap. Part 2                |
+| 13 | Intervals                   |
+|    |                             |
+| 14 | Graph. Intro                |
+| 15 | Graph. Part 1               |
+| 16 | Graph. Part 2               |
+| 17 | Dijkstra                    |
+| 18 | Topological sort. Part 1    |
+| 19 | Topological sort. Part 2    |
+| 20 | Backtracking. Part 1        |
+| 21 | Backtracking. Part 2        |
+| 22 | Dynamic Programming. Part 1 |
+| 23 | Dynamic Programming. Part 2 |
