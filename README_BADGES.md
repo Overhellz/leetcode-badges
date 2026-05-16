@@ -4,9 +4,19 @@ https://github.com/Overhellz/leetcode-thousand
 
 ---
 
+# Badges
+
 ## Top Interview 150
 
 https://leetcode.com/studyplan/top-interview-150/
+
+## Top 100 Liked
+
+https://leetcode.com/studyplan/top-100-liked/
+
+## LeetCode 75
+
+https://leetcode.com/studyplan/leetcode-75/
 
 ---
 
@@ -28,11 +38,13 @@ https://leetcode.com/studyplan/top-interview-150/
 |  Easy  | 27. Remove Element                         | https://leetcode.com/problems/remove-element/                         | 5         |
 |  Easy  | 26. Remove Duplicates from Sorted Array    | https://leetcode.com/problems/remove-duplicates-from-sorted-array/    | 3         |
 | Medium | 80. Remove Duplicates from Sorted Array II | https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/ | 3         |
-|  Easy  | 169. Majority Element                      | https://leetcode.com/problems/majority-element/                       |           |
+|  Easy  | 169. Majority Element                      | https://leetcode.com/problems/majority-element/                       | 5         |
+| Medium | 189. Rotate Array                          | https://leetcode.com/problems/rotate-array/                           | 3         |
+|  Easy  | 121. Best Time to Buy and Sell Stock       | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/        |           |
 
 ## 5. Intervals
 
 | Level | Name                | Link                                          | Retention |
 |:-----:|:--------------------|:----------------------------------------------|:----------|
-| Easy  | 228. Summary Ranges | https://leetcode.com/problems/summary-ranges/ | 3         | // решить через интервалы
+| Easy  | 228. Summary Ranges | https://leetcode.com/problems/summary-ranges/ | 4         | 
 
